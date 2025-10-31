@@ -1,4 +1,4 @@
-minimal python project to detect error tracebacks and provide concise feedback.
+python project to detect error tracebacks and provide concise feedback.
 
 backend:
 - fastapi
