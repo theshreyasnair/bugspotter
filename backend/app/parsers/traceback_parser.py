@@ -1,5 +1,3 @@
-import re
-
 def parse_traceback(traceback_str: str) -> dict:
     lines = traceback_str.strip().splitlines()
 
